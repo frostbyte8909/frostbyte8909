@@ -37,18 +37,19 @@ Active participation in penetration testing, cryptography, and vulnerability ass
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,js,ts,html,css,postgres,react,vite,supabase,firebase,vercel,cloudflare,figma,linux,bash,git,arduino" alt="My Skills" />
   </a>
-  <img src="https://img.shields.io/badge/-Visual%20Basic-512BD4?style=flat-square&logo=visual-studio&logoColor=white" alt="Visual Basic" />
-  <img src="https://img.shields.io/badge/-Framer-0055FF?style=flat-square&logo=framer&logoColor=white" alt="Framer" />
-  <img src="https://img.shields.io/badge/-Affinity%20Photo-4E3188?style=flat-square&logo=affinityphoto&logoColor=white" alt="Affinity Photo" />
-  <img src="https://img.shields.io/badge/-DaVinci%20Resolve-233A51?style=flat-square&logo=davinciresolve&logoColor=white" alt="DaVinci Resolve" />
-  <img src="https://img.shields.io/badge/-Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" alt="Burp Suite" />
-  <img src="https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" alt="Wireshark" />
-  <img src="https://img.shields.io/badge/-John%20the%20Ripper-000000?style=flat-square&logo=gnuprivacyguard&logoColor=white" alt="John the Ripper" />
-  <img src="https://img.shields.io/badge/-Cursor-000000?style=flat-square&logo=cursor&logoColor=white" alt="Cursor" />
-  <img src="https://img.shields.io/badge/-Google%20Workspace-4285F4?style=flat-square&logo=googleworkspace&logoColor=white" alt="Google Workspace" />
-  <img src="https://img.shields.io/badge/-Razorpay-0C2451?style=flat-square&logo=razorpay&logoColor=white" alt="Razorpay" />
-  <img src="https://img.shields.io/badge/-Antigravity-4285F4?style=flat-square&logo=google&logoColor=white" alt="Antigravity" />
+  <img src="https://img.shields.io/badge/-%20-0D1117?style=flat-square&logo=visualbasic&logoColor=white" alt="Visual Basic" height="48" />
+  <img src="https://img.shields.io/badge/-%20-0D1117?style=flat-square&logo=framer&logoColor=white" alt="Framer" height="48" />
+  <img src="https://img.shields.io/badge/-%20-0D1117?style=flat-square&logo=affinityphoto&logoColor=white" alt="Affinity Photo" height="48" />
+  <img src="https://img.shields.io/badge/-%20-0D1117?style=flat-square&logo=davinciresolve&logoColor=white" alt="DaVinci Resolve" height="48" />
+  <img src="https://img.shields.io/badge/-%20-0D1117?style=flat-square&logo=burpsuite&logoColor=white" alt="Burp Suite" height="48" />
+  <img src="https://img.shields.io/badge/-%20-0D1117?style=flat-square&logo=wireshark&logoColor=white" alt="Wireshark" height="48" />
+  <img src="https://img.shields.io/badge/-%20-0D1117?style=flat-square&logo=gnuprivacyguard&logoColor=white" alt="John the Ripper" height="48" />
+  <img src="https://img.shields.io/badge/-%20-0D1117?style=flat-square&logo=cursor&logoColor=white" alt="Cursor" height="48" />
+  <img src="https://img.shields.io/badge/-%20-0D1117?style=flat-square&logo=googleworkspace&logoColor=white" alt="Google Workspace" height="48" />
+  <img src="https://img.shields.io/badge/-%20-0D1117?style=flat-square&logo=razorpay&logoColor=white" alt="Razorpay" height="48" />
+  <img src="https://img.shields.io/badge/-%20-0D1117?style=flat-square&logo=google&logoColor=white" alt="Antigravity" height="48" />
 </p>
+
 
 
 ---
