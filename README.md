@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I am Your Name</h1>
+<h1 align="center">Hi there, I am Palash Shukla</h1>
 
 <h3 align="center">A passionate developer and CTF player</h3>
 
@@ -101,8 +101,8 @@ Active participation in penetration testing, cryptography, and vulnerability ass
 ## Player Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=frostbyte8909&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=frostbyte8909&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
 </p>
 
 ---
@@ -110,7 +110,7 @@ Active participation in penetration testing, cryptography, and vulnerability ass
 ## Lets Connect
 
 <p align="left">
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:palash.shukla@proton.me">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://discord.com/users/YOUR_DISCORD_ID">
