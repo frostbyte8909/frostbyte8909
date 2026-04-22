@@ -33,68 +33,23 @@ Active participation in penetration testing, cryptography, and vulnerability ass
 
 ## Languages and Tools
 
-#### Programming Languages
-
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,ts,html,css" alt="Programming Languages" />
+    <img src="https://skillicons.dev/icons?i=py,js,ts,html,css,postgres,react,vite,supabase,firebase,vercel,cloudflare,figma,linux,bash,git,arduino" alt="My Skills" />
   </a>
-</p>
-<p align="left">
-  <img src="https://img.shields.io/badge/-Visual%20Basic-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="Visual Basic" />
-  <img src="https://img.shields.io/badge/-SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-</p>
-
-#### Frontend Frameworks
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,vite" alt="Frontend Frameworks" />
-  </a>
-</p>
-
-#### Backend, Cloud and Databases
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=supabase,firebase,vercel,cloudflare" alt="Backend Cloud and Databases" />
-  </a>
+  <img src="https://img.shields.io/badge/-Visual%20Basic-512BD4?style=flat-square&logo=visual-studio&logoColor=white" alt="Visual Basic" />
+  <img src="https://img.shields.io/badge/-Framer-0055FF?style=flat-square&logo=framer&logoColor=white" alt="Framer" />
+  <img src="https://img.shields.io/badge/-Affinity%20Photo-4E3188?style=flat-square&logo=affinityphoto&logoColor=white" alt="Affinity Photo" />
+  <img src="https://img.shields.io/badge/-DaVinci%20Resolve-233A51?style=flat-square&logo=davinciresolve&logoColor=white" alt="DaVinci Resolve" />
+  <img src="https://img.shields.io/badge/-Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" alt="Burp Suite" />
+  <img src="https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" alt="Wireshark" />
+  <img src="https://img.shields.io/badge/-John%20the%20Ripper-000000?style=flat-square&logo=gnuprivacyguard&logoColor=white" alt="John the Ripper" />
+  <img src="https://img.shields.io/badge/-Cursor-000000?style=flat-square&logo=cursor&logoColor=white" alt="Cursor" />
+  <img src="https://img.shields.io/badge/-Google%20Workspace-4285F4?style=flat-square&logo=googleworkspace&logoColor=white" alt="Google Workspace" />
+  <img src="https://img.shields.io/badge/-Razorpay-0C2451?style=flat-square&logo=razorpay&logoColor=white" alt="Razorpay" />
+  <img src="https://img.shields.io/badge/-Antigravity-4285F4?style=flat-square&logo=google&logoColor=white" alt="Antigravity" />
 </p>
 
-#### Design and Creative
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma" alt="Design" />
-  </a>
-</p>
-<p align="left">
-  <img src="https://img.shields.io/badge/-Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer" />
-  <img src="https://img.shields.io/badge/-Affinity%20Photo-4E3188?style=for-the-badge&logo=affinityphoto&logoColor=white" alt="Affinity Photo" />
-  <img src="https://img.shields.io/badge/-DaVinci%20Resolve-233A51?style=for-the-badge&logo=davinciresolve&logoColor=white" alt="DaVinci Resolve" />
-</p>
-
-#### Security and Penetration Testing Tools
-
-<p align="left">
-  <img src="https://img.shields.io/badge/-Burp%20Suite%20Community-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite Community" />
-  <img src="https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
-  <img src="https://img.shields.io/badge/-John%20the%20Ripper-000000?style=for-the-badge&logo=gnuprivacyguard&logoColor=white" alt="John the Ripper" />
-</p>
-
-#### Environments, Utilities and Other Tools
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,bash,git,arduino" alt="Environments and Utilities" />
-  </a>
-</p>
-<p align="left">
-  <img src="https://img.shields.io/badge/-Cursor%20IDE-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor IDE" />
-  <img src="https://img.shields.io/badge/-Google%20Workspace-4285F4?style=for-the-badge&logo=googleworkspace&logoColor=white" alt="Google Workspace" />
-  <img src="https://img.shields.io/badge/-Razorpay-0C2451?style=for-the-badge&logo=razorpay&logoColor=white" alt="Razorpay" />
-  <img src="https://img.shields.io/badge/-Google%20Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Antigravity" />
-</p>
 
 ---
 
