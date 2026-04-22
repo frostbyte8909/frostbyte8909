@@ -37,17 +37,7 @@ Active participation in penetration testing, cryptography, and vulnerability ass
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,js,ts,html,css,postgres,react,vite,supabase,firebase,vercel,cloudflare,figma,linux,bash,git,arduino" alt="My Skills" />
   </a>
-  <img src="https://img.shields.io/badge/-%20-0D1117?style=flat-square&logo=visualbasic&logoColor=white" alt="Visual Basic" height="48" />
-  <img src="assets/framer.svg" alt="Framer" height="48" />
-  <img src="https://img.shields.io/badge/-%20-0D1117?style=flat-square&logo=affinityphoto&logoColor=white" alt="Affinity Photo" height="48" />
-  <img src="assets/davinci_resolve.svg" alt="DaVinci Resolve" height="48" />
-  <img src="assets/burpsuite.svg" alt="Burp Suite" height="48" />
-  <img src="assets/wireshark.svg" alt="Wireshark" height="48" />
-  <img src="https://img.shields.io/badge/-%20-0D1117?style=flat-square&logo=gnuprivacyguard&logoColor=white" alt="John the Ripper" height="48" />
-  <img src="assets/cursor.svg" alt="Cursor" height="48" />
-  <img src="https://img.shields.io/badge/-%20-0D1117?style=flat-square&logo=googleworkspace&logoColor=white" alt="Google Workspace" height="48" />
-  <img src="https://img.shields.io/badge/-%20-0D1117?style=flat-square&logo=razorpay&logoColor=white" alt="Razorpay" height="48" />
-  <img src="https://img.shields.io/badge/-%20-0D1117?style=flat-square&logo=google&logoColor=white" alt="Antigravity" height="48" />
+
 </p>
 
 
