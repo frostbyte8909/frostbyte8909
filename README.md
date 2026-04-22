@@ -10,7 +10,7 @@
   <strong>Engineering</strong><br/>
   Developing full-stack web applications and custom automation tooling using a wide range of tools ensuring scalability and full creative control.<br/><br/>
   <strong>Security</strong><br/>
-  Actively engaging in Capture The Flag (CTF) events, applied cryptography, cryptic hunts and vulnerability assessments.<br/><br/>
+  Actively participating in Capture The Flag (CTF) events, applied cryptography, cryptic hunts and vulnerability assessments.<br/><br/>
   <strong>Projects</strong><br/>
   Working on projects with real world applications. Scalable frontend architecture, secure backend, automation, useful AI integration into existing workflows etc.
 </p>
