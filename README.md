@@ -20,8 +20,7 @@
 ## Contact
 
 <p align="center">
-  <a href="mailto:palash.shukla@proton.me">Email</a> &nbsp;•&nbsp; 
-  <a href="https://github.com/frostbyte8909">GitHub</a> &nbsp;•&nbsp; 
+  <a href="mailto:palash.shukla@proton.me">Email</a>
 </p>
 
 ---
