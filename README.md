@@ -20,8 +20,8 @@
 ## Contact
 
 <p align="center">
-  <a href="mailto:palash.shukla@proton.me">Email</a>
-  <a href="https://www.linkedin.com/in/palash-shukla-58b964400/">LinkedIn</a>
+  <a href="mailto:palash.shukla@proton.me"><img src="https://cdn.simpleicons.org/protonmail/6D4AFF" height="20" alt="Email" /></a> &nbsp;•&nbsp;
+  <a href="https://www.linkedin.com/in/palash-shukla-58b964400/"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="20" alt="LinkedIn" /></a>
 </p>
 
 ---
