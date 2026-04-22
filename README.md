@@ -40,26 +40,14 @@ Active participation in penetration testing, cryptography, and vulnerability ass
 
 </p>
 
-
-
 ---
 
-## Player Stats
+## Let's Connect
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=frostbyte8909&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=frostbyte8909&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
-</p>
+Feel free to reach out for collaborations, CTF teaming, or just to say hi!
 
----
+- **Email:** [palash.shukla@proton.me](mailto:palash.shukla@proton.me)
+- **GitHub:** [@frostbyte8909](https://github.com/frostbyte8909)
+- **Discord:** `YOUR_DISCORD_ID`
 
-## Lets Connect
 
-<p align="left">
-  <a href="mailto:palash.shukla@proton.me">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://discord.com/users/YOUR_DISCORD_ID">
-    <img src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
-</p>
