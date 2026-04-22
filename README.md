@@ -19,10 +19,9 @@
 
 ## Contact
 
-<p align="left">
+<p align="center">
   <a href="mailto:palash.shukla@proton.me">Email</a> &nbsp;•&nbsp; 
   <a href="https://github.com/frostbyte8909">GitHub</a> &nbsp;•&nbsp; 
-  Discord: <code>YOUR_DISCORD_ID</code>
 </p>
 
 ---
