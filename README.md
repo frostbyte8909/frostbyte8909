@@ -32,17 +32,12 @@
   <p><b>Technical Stack</b></p>
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=py,js,ts,cpp,html,css,react" alt="Languages & Frameworks" />
+      <img src="https://skillicons.dev/icons?i=py,js,ts,cpp,html,css,react,postgres,supabase,firebase,vite,vercel,cloudflare,git" alt="Development & Backend" />
     </a>
   </p>
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=postgres,supabase,firebase,vite,vercel,cloudflare,git" alt="Infrastructure & Backend" />
-    </a>
-  </p>
-  <p align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=apple,linux,arch,bash,raspberrypi,arduino,vscode,obsidian,figma,discord,godot" alt="Software & Systems" />
+      <img src="https://skillicons.dev/icons?i=apple,linux,arch,bash,raspberrypi,arduino,vscode,obsidian,figma,discord,godot" alt="Systems & Tools" />
     </a>
   </p>
 </div>
