@@ -30,7 +30,9 @@
 
 <div align="center">
   <p><b>Technical Stack</b></p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,ts,cpp,html,css,postgres,react,vite,supabase,firebase,vercel,cloudflare,figma,linux,bash,git,arduino" alt="Technical Stack" />
-  </a>
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=py,js,ts,cpp,html,css,postgres,react,vite,supabase,firebase,vercel,cloudflare,figma,linux,bash,git,arduino" alt="Technical Stack" />
+    </a>
+  </p>
 </div>
