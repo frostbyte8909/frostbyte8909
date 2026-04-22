@@ -8,11 +8,11 @@
 
 <p align="left">
   <strong>Engineering</strong><br/>
-  Developing full-stack web applications and custom automation tooling using Python and React.<br/><br/>
+  Developing full-stack web applications and custom automation tooling using a wide range of tools ensuring scalability and full creative control.<br/><br/>
   <strong>Security</strong><br/>
-  Actively engaging in Capture The Flag (CTF) events, applied cryptography, and vulnerability assessments.<br/><br/>
+  Actively engaging in Capture The Flag (CTF) events, applied cryptography, cryptic hunts and vulnerability assessments.<br/><br/>
   <strong>Projects</strong><br/>
-  Building Discord bots, CLI-based games, and scalable frontend architectures.
+  Working on projects with real world applications. Scalable frontend architecture, secure backend, automation, useful AI integration into existing workflows etc.
 </p>
 
 ---
@@ -21,6 +21,7 @@
 
 <p align="center">
   <a href="mailto:palash.shukla@proton.me">Email</a>
+  <a href="https://www.linkedin.com/in/palash-shukla-58b964400/">LinkedIn</a>
 </p>
 
 ---
