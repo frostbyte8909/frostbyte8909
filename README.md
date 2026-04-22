@@ -32,7 +32,7 @@
   <p><b>Technical Stack</b></p>
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=py,js,ts,cpp,html,css,postgres,react,vite,supabase,firebase,vercel,cloudflare,figma,apple,arch,linux,bash,vscode,obsidian,discord,git,arduino" alt="Technical Stack" />
+      <img src="https://skillicons.dev/icons?i=py,js,ts,cpp,html,css,postgres,react,vite,supabase,firebase,vercel,cloudflare,figma,apple,arch,linux,bash,vscode,obsidian,discord,raspberrypi,godot,git,arduino" alt="Technical Stack" />
     </a>
   </p>
 </div>
