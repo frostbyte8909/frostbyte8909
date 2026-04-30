@@ -10,7 +10,7 @@
   <p><b>Technical Stack</b></p>
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=py,js,ts,cpp,html,css,react,postgres,supabase,firebase,vite,vercel,cloudflare,git&theme=dark" alt="Development & Backend" />
+      <img src="https://skillicons.dev/icons?i=py,js,ts,cpp,c,html,css,react,postgres,supabase,firebase,vite,vercel,cloudflare,git&theme=dark" alt="Development & Backend" />
     </a>
   </p>
   <p align="center">
