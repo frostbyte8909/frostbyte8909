@@ -1,17 +1,25 @@
 <div align="center">
-  <h1>Palash Shukla</h1>
-  <p><i>Developer & Cybersecurity Enthusiast</i></p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=frostbyte8909&theme=github-compact&hide_border=true&area=true&width=600&height=300" alt="Activity Graph" />
-</div>
 
-<br />
+```text
+                   -`                     palash shukla@github
+                  .o+`                    --------------------
+                 `ooo/                    OS:        Palash Shukla
+                `+oooo:                   Host:      Noida, Uttar Pradesh
+               `+oooooo:                  Kernel:    Born 30 September 2010
+               -+oooooo+:                 Uptime:    15 years 8 months
+             `/:-:++oooo+:                Shell:     Bash
+            `/++++/+++++++:               Editor:    VS Code, Terminal
+           `/++++++++++++++:              WM:        Git, Docker, Linux
+          `/+++ooooooooooooo/`            Packages:  Python, C++, C, JavaScript, TypeScript
+         ./ooosssso++osssssso+`           Theme:     Quant Finance · Security · Systems
+        .oossssso-````/ossssso+`          Resume:    [View here](YOUR_RESUME_LINK_HERE)
+       -osssssso.      :ssssssso.
+      :osssssss/        osssso+++.
+     /ossssssss/        +ssssooo/-  
+   `/ossssso+/:-        -:/+osssso+-
+  `+sso+:-`                 `.-/+oso:
+ `++:.                           `-/+/
+ .`                                 `-/
+```
 
-<div align="center">
-  <p><b>Tech Stack</b></p>
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=py,cpp,c,js,ts,lua,html,css,react,postgres&theme=dark&width=100" alt="Languages" />
-  </p>
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=supabase,firebase,redis,kubernetes,azure,cloudflare,vercel,linux,arch,bash,git&theme=dark&width=100" alt="Tools" />
-  </p>
 </div>
