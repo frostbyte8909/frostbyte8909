@@ -7,7 +7,7 @@
 <br />
 
 <div align="center">
-  <p><b>Technical Stack</b></p>
+  <p><b>Tech Stack</b></p>
   <p align="center">
     <img src="https://skillicons.dev/icons?i=py,cpp,c,js,ts,lua,html,css,react,postgres&theme=dark&width=100" alt="Languages" />
   </p>
