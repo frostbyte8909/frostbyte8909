@@ -9,9 +9,9 @@
 <div align="center">
   <p><b>Technical Stack</b></p>
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=py,cpp,c,js,ts,lua,html,css,react,postgres&theme=dark&width=300" alt="Languages" />
+    <img src="https://skillicons.dev/icons?i=py,cpp,c,js,ts,lua,html,css,react,postgres&theme=dark&width=100" alt="Languages" />
   </p>
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=supabase,firebase,redis,kubernetes,azure,cloudflare,vercel,linux,arch,bash,git&theme=dark&width=300" alt="Tools" />
+    <img src="https://skillicons.dev/icons?i=supabase,firebase,redis,kubernetes,azure,cloudflare,vercel,linux,arch,bash,git&theme=dark&width=100" alt="Tools" />
   </p>
 </div>
