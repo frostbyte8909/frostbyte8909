@@ -9,8 +9,6 @@
 <div align="center">
   <p><b>Technical Stack</b></p>
   <p align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=py,cpp,c,js,ts,lua,html,css,react,postgres,supabase,firebase,redis,kubernetes,azure,cloudflare,vercel,linux,arch,bash,git&theme=dark&width=300" alt="Languages & Tools" />
-    </a>
+    <img src="https://skillicons.dev/icons?i=py,cpp,c,js,ts,lua,html,css,react,postgres,supabase,firebase,redis,kubernetes,azure,cloudflare,vercel,linux,arch,bash,git&theme=dark&width=300" alt="Languages & Tools" />
   </p>
 </div>
