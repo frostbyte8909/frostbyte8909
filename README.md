@@ -1,5 +1,24 @@
-<div align="center">
-  <a href="https://github.com/frostbyte8909/resume">
-    <img src="https://raw.githubusercontent.com/frostbyte8909/frostbyte8909/main/neofetch.svg" alt="neofetch" />
-  </a>
-</div>
+```
+                +   *     *   +           _|_       .  \      +              +      '    *  +        
+  +   +  +                                 |   |        \  *      '   .   '           +        _|_   
+    +                *                .       -+-    *   *      +                               |   '
+  *     .       '         .        .     o     |  .                              '   '     . .       
+    .       +        +      ':.                                                o                    +
+                              '::._  +             '            +      + '            o         '    
+    +              .   o        '._)                                                      +        . 
+        *  +     '                           .              .  |  .   '     +  '       .             
+     .                   *                        . '         -o-   +     +                .  '  +~~ 
+            + .               o                       +    *   |       .          .    '             
+   +                 +                '                 .         '           . '            .       
+          '             .                       . *             .    .               .    '       /  
+                 .                            '                                 *           o    /   
+   / '                  ':.       +   .            '     .     . .        . '          .:'      *    
+  /     .   .             '::._         *  +                            +          _.::'            .
+ *             +            '._) +   |       .         o     .   *   +            (_.'      +        
+                  +    .   \       - o -         ' . *                  *      '          .      .   
+          +                 \        |       +                                                '      
+       .         +           *                    +~~            '   .  .          .   ' '       *   
+'           '                  +     .                 .    '  o            .  .       
+
+hi@neutron
+```
