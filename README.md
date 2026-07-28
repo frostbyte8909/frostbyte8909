@@ -22,4 +22,4 @@
 
 palash.shukla@proton.me
 ```
-(not) stolen from whirlxd
+<small>(not) stolen from whirlxd</small>
