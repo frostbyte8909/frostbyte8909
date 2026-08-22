@@ -15,5 +15,4 @@
             \_,-
 
 ```
-palash.shukla@proton.me
-@palaaaaaashh
+[say hi](palash.shukla@proton.me)
