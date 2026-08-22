@@ -15,4 +15,4 @@
             \_,-
 
 ```
-[say hi](palash.shukla@proton.me)
+[contact](palash.shukla@proton.me)
